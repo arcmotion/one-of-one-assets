@@ -1,0 +1,483 @@
+{
+  "brand": {
+    "name": "One of One",
+    "language": "en",
+    "updated": "4 November 2026"
+  },
+  "sections": {
+    "logo": true,
+    "favicon": true,
+    "brandbook": true,
+    "external": true
+  },
+  "hero": {
+    "image": "",
+    "video": "assets/previews/logo_animation.mp4",
+    "poster": "assets/previews/logo_animation.jpg",
+    "download": {
+      "href": "assets/zips/oneofone_logos_and_icons.zip",
+      "name": "oneofone_logos_and_icons.zip",
+      "size": "619 KB",
+      "label": "Download all logos and icons (ZIP)"
+    }
+  },
+  "logo": {
+    "versions": [
+      {
+        "id": "horizontal",
+        "label": "Horizontal",
+        "hint": "For wide and linear formats. Use this first.",
+        "width": 68,
+        "previews": {
+          "black": "assets/logos/horizontal/oneofone_logo_horizontal_black.svg",
+          "white": "assets/logos/horizontal/oneofone_logo_horizontal_white.svg"
+        },
+        "files": {
+          "black": {
+            "png": {
+              "href": "assets/logos/horizontal/oneofone_logo_horizontal_black.png",
+              "name": "oneofone_logo_horizontal_black.png",
+              "size": "11 KB"
+            },
+            "large": {
+              "href": "assets/logos/horizontal/oneofone_logo_horizontal_black_large.png",
+              "name": "oneofone_logo_horizontal_black_large.png",
+              "size": "57 KB"
+            },
+            "svg": {
+              "href": "assets/logos/horizontal/oneofone_logo_horizontal_black.svg",
+              "name": "oneofone_logo_horizontal_black.svg",
+              "size": "7 KB"
+            },
+            "pdf": {
+              "href": "assets/logos/horizontal/oneofone_logo_horizontal_black.pdf",
+              "name": "oneofone_logo_horizontal_black.pdf",
+              "size": "5 KB"
+            }
+          },
+          "white": {
+            "png": {
+              "href": "assets/logos/horizontal/oneofone_logo_horizontal_white.png",
+              "name": "oneofone_logo_horizontal_white.png",
+              "size": "12 KB"
+            },
+            "large": {
+              "href": "assets/logos/horizontal/oneofone_logo_horizontal_white_large.png",
+              "name": "oneofone_logo_horizontal_white_large.png",
+              "size": "63 KB"
+            },
+            "svg": {
+              "href": "assets/logos/horizontal/oneofone_logo_horizontal_white.svg",
+              "name": "oneofone_logo_horizontal_white.svg",
+              "size": "7 KB"
+            },
+            "pdf": {
+              "href": "assets/logos/horizontal/oneofone_logo_horizontal_white.pdf",
+              "name": "oneofone_logo_horizontal_white.pdf",
+              "size": "5 KB"
+            }
+          }
+        }
+      },
+      {
+        "id": "stacked",
+        "label": "Stacked",
+        "hint": "For centred and compact layouts.",
+        "width": 48,
+        "previews": {
+          "black": "assets/logos/stacked/oneofone_logo_stacked_black.svg",
+          "white": "assets/logos/stacked/oneofone_logo_stacked_white.svg"
+        },
+        "files": {
+          "black": {
+            "png": {
+              "href": "assets/logos/stacked/oneofone_logo_stacked_black.png",
+              "name": "oneofone_logo_stacked_black.png",
+              "size": "12 KB"
+            },
+            "large": {
+              "href": "assets/logos/stacked/oneofone_logo_stacked_black_large.png",
+              "name": "oneofone_logo_stacked_black_large.png",
+              "size": "63 KB"
+            },
+            "svg": {
+              "href": "assets/logos/stacked/oneofone_logo_stacked_black.svg",
+              "name": "oneofone_logo_stacked_black.svg",
+              "size": "7 KB"
+            },
+            "pdf": {
+              "href": "assets/logos/stacked/oneofone_logo_stacked_black.pdf",
+              "name": "oneofone_logo_stacked_black.pdf",
+              "size": "5 KB"
+            }
+          },
+          "white": {
+            "png": {
+              "href": "assets/logos/stacked/oneofone_logo_stacked_white.png",
+              "name": "oneofone_logo_stacked_white.png",
+              "size": "13 KB"
+            },
+            "large": {
+              "href": "assets/logos/stacked/oneofone_logo_stacked_white_large.png",
+              "name": "oneofone_logo_stacked_white_large.png",
+              "size": "70 KB"
+            },
+            "svg": {
+              "href": "assets/logos/stacked/oneofone_logo_stacked_white.svg",
+              "name": "oneofone_logo_stacked_white.svg",
+              "size": "7 KB"
+            },
+            "pdf": {
+              "href": "assets/logos/stacked/oneofone_logo_stacked_white.pdf",
+              "name": "oneofone_logo_stacked_white.pdf",
+              "size": "5 KB"
+            }
+          }
+        }
+      },
+      {
+        "id": "wordmark",
+        "label": "Wordmark",
+        "hint": "The name on its own.",
+        "width": 48,
+        "previews": {
+          "black": "assets/logos/wordmark/oneofone_logo_wordmark_black.svg",
+          "white": "assets/logos/wordmark/oneofone_logo_wordmark_white.svg"
+        },
+        "files": {
+          "black": {
+            "png": {
+              "href": "assets/logos/wordmark/oneofone_logo_wordmark_black.png",
+              "name": "oneofone_logo_wordmark_black.png",
+              "size": "9 KB"
+            },
+            "large": {
+              "href": "assets/logos/wordmark/oneofone_logo_wordmark_black_large.png",
+              "name": "oneofone_logo_wordmark_black_large.png",
+              "size": "47 KB"
+            },
+            "svg": {
+              "href": "assets/logos/wordmark/oneofone_logo_wordmark_black.svg",
+              "name": "oneofone_logo_wordmark_black.svg",
+              "size": "6 KB"
+            },
+            "pdf": {
+              "href": "assets/logos/wordmark/oneofone_logo_wordmark_black.pdf",
+              "name": "oneofone_logo_wordmark_black.pdf",
+              "size": "5 KB"
+            }
+          },
+          "white": {
+            "png": {
+              "href": "assets/logos/wordmark/oneofone_logo_wordmark_white.png",
+              "name": "oneofone_logo_wordmark_white.png",
+              "size": "10 KB"
+            },
+            "large": {
+              "href": "assets/logos/wordmark/oneofone_logo_wordmark_white_large.png",
+              "name": "oneofone_logo_wordmark_white_large.png",
+              "size": "52 KB"
+            },
+            "svg": {
+              "href": "assets/logos/wordmark/oneofone_logo_wordmark_white.svg",
+              "name": "oneofone_logo_wordmark_white.svg",
+              "size": "6 KB"
+            },
+            "pdf": {
+              "href": "assets/logos/wordmark/oneofone_logo_wordmark_white.pdf",
+              "name": "oneofone_logo_wordmark_white.pdf",
+              "size": "5 KB"
+            }
+          }
+        }
+      },
+      {
+        "id": "logomark",
+        "label": "Logomark",
+        "hint": "The three discs on their own, once the name is already clear.",
+        "width": 30,
+        "previews": {
+          "black": "assets/logos/logomark/oneofone_logo_logomark_black.svg",
+          "white": "assets/logos/logomark/oneofone_logo_logomark_white.svg"
+        },
+        "files": {
+          "black": {
+            "png": {
+              "href": "assets/logos/logomark/oneofone_logo_logomark_black.png",
+              "name": "oneofone_logo_logomark_black.png",
+              "size": "5 KB"
+            },
+            "large": {
+              "href": "assets/logos/logomark/oneofone_logo_logomark_black_large.png",
+              "name": "oneofone_logo_logomark_black_large.png",
+              "size": "28 KB"
+            },
+            "svg": {
+              "href": "assets/logos/logomark/oneofone_logo_logomark_black.svg",
+              "name": "oneofone_logo_logomark_black.svg",
+              "size": "1 KB"
+            },
+            "pdf": {
+              "href": "assets/logos/logomark/oneofone_logo_logomark_black.pdf",
+              "name": "oneofone_logo_logomark_black.pdf",
+              "size": "2 KB"
+            }
+          },
+          "white": {
+            "png": {
+              "href": "assets/logos/logomark/oneofone_logo_logomark_white.png",
+              "name": "oneofone_logo_logomark_white.png",
+              "size": "6 KB"
+            },
+            "large": {
+              "href": "assets/logos/logomark/oneofone_logo_logomark_white_large.png",
+              "name": "oneofone_logo_logomark_white_large.png",
+              "size": "32 KB"
+            },
+            "svg": {
+              "href": "assets/logos/logomark/oneofone_logo_logomark_white.svg",
+              "name": "oneofone_logo_logomark_white.svg",
+              "size": "1 KB"
+            },
+            "pdf": {
+              "href": "assets/logos/logomark/oneofone_logo_logomark_white.pdf",
+              "name": "oneofone_logo_logomark_white.pdf",
+              "size": "2 KB"
+            }
+          }
+        }
+      }
+    ],
+    "colours": [
+      {
+        "id": "black",
+        "label": "Black",
+        "hint": "For white and light backgrounds.",
+        "stage": "#ffffff"
+      },
+      {
+        "id": "white",
+        "label": "White",
+        "hint": "For black and dark backgrounds.",
+        "stage": "#000000",
+        "onLight": false
+      }
+    ],
+    "download": {
+      "href": "assets/zips/oneofone_logos.zip",
+      "name": "oneofone_logos.zip",
+      "size": "526 KB",
+      "label": "Download all logos (ZIP)"
+    },
+    "guides": [
+      {
+        "title": "Add the logo to Google Slides, PowerPoint or Word",
+        "ordered": true,
+        "items": [
+          "Download the PNG above.",
+          "In Google Slides, choose Insert, then Image, then Upload from computer. In PowerPoint or Word, choose Insert, then Pictures.",
+          "Resize it by dragging a corner. The proportions stay correct as long as you use a corner."
+        ]
+      },
+      {
+        "title": "How to use the logo",
+        "items": [
+          "Keep clear space around it, so nothing else enters that area.",
+          "Don't distort, stretch, rotate or modify the logo.",
+          "Don't add effects or decorations.",
+          "Make sure it contrasts clearly with the background."
+        ]
+      }
+    ]
+  },
+  "favicon": {
+    "sizes": [
+      {
+        "px": 16,
+        "use": "Browser tabs",
+        "files": {
+          "black": [
+            {
+              "href": "assets/favicons/oneofone_favicon_black_16.png",
+              "name": "oneofone_favicon_black_16.png",
+              "size": "1 KB",
+              "label": "PNG"
+            }
+          ],
+          "white": [
+            {
+              "href": "assets/favicons/oneofone_favicon_white_16.png",
+              "name": "oneofone_favicon_white_16.png",
+              "size": "1 KB",
+              "label": "PNG"
+            }
+          ]
+        }
+      },
+      {
+        "px": 32,
+        "use": "Browser tabs on sharp screens",
+        "files": {
+          "black": [
+            {
+              "href": "assets/favicons/oneofone_favicon_black_32.png",
+              "name": "oneofone_favicon_black_32.png",
+              "size": "1 KB",
+              "label": "PNG"
+            }
+          ],
+          "white": [
+            {
+              "href": "assets/favicons/oneofone_favicon_white_32.png",
+              "name": "oneofone_favicon_white_32.png",
+              "size": "1 KB",
+              "label": "PNG"
+            }
+          ]
+        }
+      },
+      {
+        "px": 48,
+        "use": "Search results and bookmarks",
+        "files": {
+          "black": [
+            {
+              "href": "assets/favicons/oneofone_favicon_black_48.png",
+              "name": "oneofone_favicon_black_48.png",
+              "size": "1 KB",
+              "label": "PNG"
+            }
+          ],
+          "white": [
+            {
+              "href": "assets/favicons/oneofone_favicon_white_48.png",
+              "name": "oneofone_favicon_white_48.png",
+              "size": "1 KB",
+              "label": "PNG"
+            }
+          ]
+        }
+      },
+      {
+        "px": 512,
+        "use": "Phone home screens and app stores",
+        "files": {
+          "black": [
+            {
+              "href": "assets/favicons/oneofone_favicon_black_512.png",
+              "name": "oneofone_favicon_black_512.png",
+              "size": "14 KB",
+              "label": "PNG"
+            },
+            {
+              "href": "assets/favicons/oneofone_favicon_black_512.svg",
+              "name": "oneofone_favicon_black_512.svg",
+              "size": "1 KB",
+              "label": "SVG"
+            }
+          ],
+          "white": [
+            {
+              "href": "assets/favicons/oneofone_favicon_white_512.png",
+              "name": "oneofone_favicon_white_512.png",
+              "size": "15 KB",
+              "label": "PNG"
+            },
+            {
+              "href": "assets/favicons/oneofone_favicon_white_512.svg",
+              "name": "oneofone_favicon_white_512.svg",
+              "size": "1 KB",
+              "label": "SVG"
+            }
+          ]
+        }
+      }
+    ],
+    "colours": [
+      {
+        "id": "black",
+        "label": "Black, for light tabs",
+        "tabIcon": "assets/favicons/oneofone_favicon_black_32.png"
+      },
+      {
+        "id": "white",
+        "label": "White, for dark tabs",
+        "tabIcon": "assets/favicons/oneofone_favicon_white_32.png",
+        "dark": true
+      }
+    ],
+    "downloads": [
+      {
+        "label": "Download favicon set (ZIP)",
+        "href": "assets/zips/oneofone_favicons.zip",
+        "name": "oneofone_favicons.zip",
+        "size": "93 KB"
+      },
+      {
+        "label": "Download favicon.ico",
+        "href": "assets/favicons/favicon.ico",
+        "name": "favicon.ico",
+        "size": null
+      }
+    ],
+    "homeScreen": [
+      {
+        "label": "Symbol, gradient",
+        "preview": "assets/favicons/oneofone_apple-touch_symbol-gradient.png",
+        "href": "assets/favicons/oneofone_apple-touch_symbol-gradient.png",
+        "name": "oneofone_apple-touch_symbol-gradient.png",
+        "size": "26 KB"
+      },
+      {
+        "label": "Logomark, gradient",
+        "preview": "assets/favicons/oneofone_apple-touch_logomark-gradient.png",
+        "href": "assets/favicons/oneofone_apple-touch_logomark-gradient.png",
+        "name": "oneofone_apple-touch_logomark-gradient.png",
+        "size": "25 KB"
+      },
+      {
+        "label": "Logomark, black",
+        "preview": "assets/favicons/oneofone_apple-touch_logomark-black.png",
+        "href": "assets/favicons/oneofone_apple-touch_logomark-black.png",
+        "name": "oneofone_apple-touch_logomark-black.png",
+        "size": "5 KB"
+      }
+    ]
+  },
+  "brandbook": {
+    "download": {
+      "label": "Download PDF",
+      "href": "https://drive.google.com/uc?export=download&id=1ovgb2Oh-Ng_WNKtQ067bmUb43ySm_K0C",
+      "size": "18.9 MB"
+    },
+    "online": {
+      "label": "Read online",
+      "href": "https://drive.google.com/file/d/1ovgb2Oh-Ng_WNKtQ067bmUb43ySm_K0C/view"
+    },
+    "cover": "assets/previews/brandbook_cover.jpg"
+  },
+  "external": {
+    "items": [
+      {
+        "title": "Logo animation",
+        "note": "MP4, 800 by 230 px, 5 seconds, no sound",
+        "href": "assets/files/logo_animation.mp4",
+        "name": "logo_animation.mp4",
+        "size": "4.6 MB",
+        "label": "Download MP4",
+        "video": "assets/previews/logo_animation.mp4",
+        "poster": "assets/previews/logo_animation.jpg"
+      }
+    ],
+    "folder": {
+      "label": "",
+      "href": ""
+    }
+  },
+  "copy": {
+    "external": {
+      "title": "Motion",
+      "lead": "Animated brand files for video, social and presentations."
+    }
+  }
+}

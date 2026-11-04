@@ -1,0 +1,245 @@
+{
+  "brand": {
+    "name": "",
+    "placeholderName": "Your Brand",
+    "language": "en",
+    "updated": ""
+  },
+  "sections": {
+    "logo": true,
+    "favicon": true,
+    "brandbook": true,
+    "external": true
+  },
+  "copy": {
+    "notice": "Template preview. Dashed outlines are placeholders, and buttons have no links until a project adds its own files.",
+    "pageTitle": "{name} brand files",
+    "pending": "File coming soon",
+    "download": "Download ",
+    "downloadPng": "Download PNG",
+    "updated": "Updated {updated}.",
+    "footer": "Need a format that isn't here? Ask your studio contact.",
+    "hero": {
+      "title": "Brand files",
+      "lead": "Everything you need to use the {name} brand. Each file says what it's for, so pick by what you're making."
+    },
+    "logo": {
+      "title": "Logo",
+      "lead": "Choose a version and a colour, then download the file type you need.",
+      "version": "Version",
+      "colour": "Colour"
+    },
+    "favicon": {
+      "title": "Favicon",
+      "lead": "The small icon people see in a browser tab. Send the full set to whoever builds your website.",
+      "size": "Size",
+      "homeTitle": "Phone home screen",
+      "homeNote": "Shown when someone saves your website to their home screen. Your web developer needs one of these."
+    },
+    "brandbook": {
+      "title": "Brandbook",
+      "lead": "The full rules for using the brand."
+    },
+    "external": {
+      "title": "More files",
+      "lead": "Motion, print, 3D and other files made for the brand."
+    }
+  },
+  "hero": {
+    "image": "",
+    "video": "",
+    "poster": "",
+    "download": {
+      "label": "Download all logos and icons (ZIP)",
+      "href": ""
+    }
+  },
+  "logo": {
+    "versions": [
+      {
+        "id": "horizontal",
+        "label": "Horizontal",
+        "hint": "Mark beside the name. Use this first.",
+        "width": 70,
+        "previews": {
+          "dark": "assets/placeholders/logo-horizontal-dark.svg",
+          "light": "assets/placeholders/logo-horizontal-light.svg"
+        }
+      },
+      {
+        "id": "stacked",
+        "label": "Stacked",
+        "hint": "For compact and centred layouts.",
+        "width": 50,
+        "previews": {
+          "dark": "assets/placeholders/logo-stacked-dark.svg",
+          "light": "assets/placeholders/logo-stacked-light.svg"
+        }
+      },
+      {
+        "id": "wordmark",
+        "label": "Wordmark",
+        "hint": "The name on its own.",
+        "width": 50,
+        "previews": {
+          "dark": "assets/placeholders/logo-wordmark-dark.svg",
+          "light": "assets/placeholders/logo-wordmark-light.svg"
+        }
+      },
+      {
+        "id": "mark",
+        "label": "Mark",
+        "hint": "The symbol on its own, once the name is already clear.",
+        "width": 26,
+        "previews": {
+          "dark": "assets/placeholders/logo-mark-dark.svg",
+          "light": "assets/placeholders/logo-mark-light.svg"
+        }
+      }
+    ],
+    "colours": [
+      {
+        "id": "dark",
+        "label": "Dark",
+        "hint": "For white and light backgrounds.",
+        "stage": "#ffffff"
+      },
+      {
+        "id": "light",
+        "label": "Light",
+        "hint": "For black and dark backgrounds.",
+        "stage": "#000000",
+        "onLight": false
+      }
+    ],
+    "formats": [
+      {
+        "id": "png",
+        "label": "PNG",
+        "use": "For slides, documents and email. Has a transparent background.",
+        "recommended": true
+      },
+      {
+        "id": "large",
+        "label": "Large PNG",
+        "use": "For posters, big screens and video."
+      },
+      {
+        "id": "svg",
+        "label": "SVG",
+        "use": "For websites and designers. Stays sharp at any size."
+      },
+      {
+        "id": "pdf",
+        "label": "PDF",
+        "use": "For printers."
+      }
+    ],
+    "guides": [
+      {
+        "title": "Add the logo to Google Slides, PowerPoint or Word",
+        "ordered": true,
+        "items": [
+          "Download the PNG above.",
+          "In Google Slides, choose Insert, then Image, then Upload from computer. In PowerPoint or Word, choose Insert, then Pictures.",
+          "Resize it by dragging a corner. The proportions stay correct as long as you use a corner."
+        ]
+      },
+      {
+        "title": "How to use the logo",
+        "items": [
+          "Keep clear space around it, so nothing else enters that area.",
+          "Don't stretch, rotate or change the logo.",
+          "Don't add shadows, outlines or other effects.",
+          "Make sure it contrasts clearly with the background."
+        ]
+      }
+    ],
+    "download": {
+      "label": "Download all logos (ZIP)",
+      "href": ""
+    }
+  },
+  "favicon": {
+    "colours": [
+      {
+        "id": "dark",
+        "label": "Dark, for light tabs",
+        "tabIcon": ""
+      },
+      {
+        "id": "light",
+        "label": "Light, for dark tabs",
+        "dark": true,
+        "tabIcon": ""
+      }
+    ],
+    "sizes": [
+      {
+        "px": 16,
+        "use": "Browser tabs"
+      },
+      {
+        "px": 32,
+        "use": "Browser tabs on sharp screens"
+      },
+      {
+        "px": 48,
+        "use": "Search results and bookmarks"
+      },
+      {
+        "px": 512,
+        "use": "Phone home screens and app stores"
+      }
+    ],
+    "downloads": [
+      {
+        "label": "Download favicon set (ZIP)",
+        "href": ""
+      },
+      {
+        "label": "Download favicon.ico",
+        "href": ""
+      }
+    ],
+    "homeScreen": [
+      {
+        "label": "App icon",
+        "preview": "",
+        "href": ""
+      }
+    ]
+  },
+  "brandbook": {
+    "cover": "",
+    "download": {
+      "label": "Download PDF",
+      "href": ""
+    },
+    "online": {
+      "label": "Read online",
+      "href": ""
+    }
+  },
+  "external": {
+    "items": [
+      {
+        "title": "Motion file",
+        "note": "Video or animation, with a preview",
+        "label": "Download MP4",
+        "href": "",
+        "image": ""
+      },
+      {
+        "title": "Other assets",
+        "note": "Print files, 3D scenes and anything else made for the brand",
+        "label": "Open link",
+        "href": ""
+      }
+    ],
+    "folder": {
+      "label": "",
+      "href": ""
+    }
+  }
+}

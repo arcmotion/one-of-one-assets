@@ -1,0 +1,27 @@
+{
+  "client": "One of One",
+  "prefix": "oneofone",
+  "updated": "4 November 2026",
+  "language": "en",
+  "logo": {
+    "versions": [
+      { "slug": "horizontal", "label": "Horizontal", "hint": "For wide and linear formats. Use this first.", "width": 68 },
+      { "slug": "stacked", "label": "Stacked", "hint": "For centred and compact layouts.", "width": 48 },
+      { "slug": "wordmark", "label": "Wordmark", "hint": "The name on its own.", "width": 48 },
+      { "slug": "logomark", "label": "Logomark", "hint": "The three discs on their own, once the name is already clear.", "width": 30 }
+    ],
+    "colours": [
+      { "slug": "black", "label": "Black", "hint": "For white and light backgrounds.", "stage": "#ffffff" },
+      { "slug": "white", "label": "White", "hint": "For black and dark backgrounds.", "stage": "#000000", "onLight": false }
+    ],
+    "rules": ["Keep clear space around it, so nothing else enters that area.", "Don't distort, stretch, rotate or modify the logo.", "Don't add effects or decorations.", "Make sure it contrasts clearly with the background."]
+  },
+  "favicon": {
+    "sizes": [16, 32, 48, 512],
+    "colours": [ { "slug": "black", "label": "Black, for light tabs" }, { "slug": "white", "label": "White, for dark tabs", "dark": true } ],
+    "appleTouch": [ { "slug": "symbol-gradient", "label": "Symbol, gradient" }, { "slug": "logomark-gradient", "label": "Logomark, gradient" }, { "slug": "logomark-black", "label": "Logomark, black" } ]
+  },
+  "brandbook": { "driveId": "1ovgb2Oh-Ng_WNKtQ067bmUb43ySm_K0C", "cover": "brandbook_cover.png" },
+  "external": [ { "type": "file", "file": "logo_animation.mp4", "title": "Logo animation", "note": "MP4, 800 by 230 px, 5 seconds, no sound" } ],
+  "overrides": { "copy": { "external": { "title": "Motion", "lead": "Animated brand files for video, social and presentations." } } }
+}
