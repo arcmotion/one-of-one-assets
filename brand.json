@@ -11,9 +11,9 @@
     "external": true
   },
   "hero": {
-    "image": "",
-    "video": "assets/previews/logo_animation.mp4",
-    "poster": "assets/previews/logo_animation.jpg",
+    "image": "assets/previews/brandbook_cover.jpg",
+    "video": "",
+    "poster": "assets/previews/brandbook_cover.jpg",
     "download": {
       "href": "assets/zips/oneofone_logos_and_icons.zip",
       "name": "oneofone_logos_and_icons.zip",
