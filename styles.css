@@ -83,7 +83,7 @@ p {
 }
 
 .hero {
-  padding-block: clamp(32px, 5vw, 72px) var(--band);
+  padding-block: clamp(32px, 5vw, 48px) var(--band);
 }
 .hero video {
   width: 100%;
@@ -571,6 +571,7 @@ footer {
   aspect-ratio: 16 / 9;
   object-fit: cover;
   object-position: center;
+  max-width: 800px;
 }
 .table-scroll {
   overflow-x: auto;
