@@ -11,9 +11,9 @@
     "external": true
   },
   "hero": {
-    "image": "assets/previews/brandbook_cover.webp",
+    "image": "assets/previews/hero_cover.webp",
     "video": "",
-    "poster": "assets/previews/brandbook_cover.webp",
+    "poster": "",
     "download": {
       "href": "assets/zips/oneofone_logos_and_icons.zip",
       "name": "oneofone_logos_and_icons.zip",
@@ -454,7 +454,7 @@
       "label": "Read online",
       "href": "https://drive.google.com/file/d/1ovgb2Oh-Ng_WNKtQ067bmUb43ySm_K0C/view"
     },
-    "cover": "assets/previews/brandbook_cover.webp"
+    "cover": "assets/previews/brandbook_cover.png"
   },
   "external": {
     "items": [
